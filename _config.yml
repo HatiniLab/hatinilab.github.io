@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 url: https://Hatinilab.github.io
 baseurl: /agency-jekyll-theme/
+=======
+url: http://hatinilab.github.io
+baseurl: /
+>>>>>>> 46b22f2363dc712ef7a86c010677d894d7c042d9
 
 # Site settings
 title: Hatini Lab
