@@ -1,6 +1,6 @@
 
 url: http://hatinilab.github.io
-baseurl: 
+baseurl:
 
 # Site settings
 title: Hatini Lab
@@ -35,17 +35,6 @@ people:
     - title: facebook
       url: #
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
