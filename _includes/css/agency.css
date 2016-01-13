@@ -680,6 +680,9 @@ section#contact .form-group input.form-control {
 section#contact .form-group textarea.form-control {
     height: 236px;
 }
+section#contact p{
+  color: white;
+}
 
 section#contact .form-control:focus {
     border-color: #{{ site.color.primary }};
